@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.18.0
+numpy
+pandas
+plotly
+Pillow
+wikipedia
+streamlit_lottie
