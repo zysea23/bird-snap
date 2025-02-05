@@ -1,7 +1,7 @@
 # 🦜✨ Bird Snap – Your AI Birding Companion!  
 
 ## 🔍 **What is Bird Snap?**  
-Ever spotted a bird and wondered what species it is? 🧐 Just snap a photo, and **Bird Snap** will do the rest! Powered by **deep learning**, this tool can identify over **500 bird species** with an impressive **87% Top-1 and 96% Top-5 accuracy**! Whether you're a seasoned birder, a casual nature lover, or simply curious, Bird Snap brings the world of birds to your fingertips. 🌿🐦  
+Ever spotted a bird and wondered what species it is? 🧐 Just snap a photo, and **Bird Snap** will do the rest! Powered by **deep learning**, this tool can identify over **500 bird species** trained on **NABirds** with an impressive **87% Top-1 and 96% Top-5 accuracy**! Whether you're a seasoned birder, a casual nature lover, or simply curious, Bird Snap brings the world of birds to your fingertips. 🌿🐦  
 
 🎯 **Try it out now! → [Live Web App](https://birdsnap.streamlit.app/)**  
 

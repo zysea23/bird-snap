@@ -162,14 +162,14 @@ index_to_class = load_index_to_class()
 st.sidebar.title('🐦Welcome to Bird Snap')
 st.sidebar.write('''
                  
-🦜 Bird Snap – Your AI Bird-Watching Buddy!
+🦜 Bird Snap - Your AI Bird-Watching Buddy!
 Ever wondered what bird just fluttered by? 🧐 Snap a picture, and Bird Snap will tell you instantly! With AI-powered bird recognition, you’ll never be left guessing again.
 
-🌿 What’s so cool about it?
+🌿 What's so cool about it?
 
 Identify 500+ bird species just by taking a photo! 📸
                  
-Trained on 50,000+ stunning bird images, so no feather goes unnoticed. 🪶
+Trained on 50,000+ stunning bird images(from NABirds dataset), so no feather goes unnoticed. 🪶
                  
 Powered by cutting-edge AI magic (a.k.a. transfer learning), making it smarter with every snap.
 
@@ -250,7 +250,7 @@ if pred_button:
             orientation="h",
             text=df["Probability"].apply(lambda x: f"{x:.2f}%"),
             textposition="auto",
-            marker=dict(color="plum"),  # need to decide on a good colour
+            marker=dict(color="rgb(252, 186, 3)")  
         )
     ])
 
