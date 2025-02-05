@@ -5,13 +5,15 @@ Ever spotted a bird and wondered what species it is? 🧐 Just snap a photo, and
 
 🎯 **Try it out now! → [Live Web App](https://birdsnap.streamlit.app/)**  
 
-<!-- ![Bird Snap Demo](https://github.com/user-attachments/assets/)   -->
+![Bird Snap Demo](https://github.com/zysea23/bird-snap/blob/main/assets/birdsnap-snap0.png?raw=true)  
 
 ## 🌟 **Why You’ll Love Bird Snap**  
 - 🧠 **AI-Powered Identification** – Uses **EfficientNetB4** to classify birds with high accuracy.  
 - 🔥 **Fine-Tuned for Birds** – Trained on **50,000+ stunning bird photos** for top-tier precision.  
 - 🖥 **Interactive Web App** – Simply upload a photo, and Bird Snap will name the species.  
 - 📖 **Learn & Explore** – Instantly access Wikipedia info about each identified bird.  
+
+![Bird Snap Demo](https://github.com/zysea23/bird-snap/blob/main/assets/birdsnap-snap.png?raw=true)  
 
 ## 🛠 **How Does It Work?**  
 
